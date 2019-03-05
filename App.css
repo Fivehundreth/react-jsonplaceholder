@@ -1,0 +1,44 @@
+.App h1 {
+  text-align: center;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.post{
+	border: 1px solid black;
+    border-radius: 5px;
+    height: 40px;
+    line-height: 40px;
+    cursor: pointer;
+    text-align: center;
+    background: #3334;
+    width: 50%;
+    margin: 0 auto 5px auto;
+}
+.main-nav ul{
+	list-style: none;
+	text-align: center;
+}
+.loading {
+	text-align: center;
+}
+.post-body{
+	margin: 0 auto;
+    width: 600px;
+    height: 151px;
+    display: block;
+    padding:15px;
+}
+.post-wrapper{
+	text-align: center;
+}
+.post-header{
+	width: 600px;
+    padding: 15px;
+}
